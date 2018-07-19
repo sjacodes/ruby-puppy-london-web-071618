@@ -8,7 +8,7 @@ class Dog
   end
 
   def self.all
-    @all.collect {|
+    @all.collect {|dog
   
   
 end
