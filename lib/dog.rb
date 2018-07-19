@@ -9,9 +9,9 @@ class Dog
 
   def self.all
    array =  @all.collect {|dog| dog.name}
-   
-    
-  
-  
+   puts array
+  end 
+ 
+
 end
 
