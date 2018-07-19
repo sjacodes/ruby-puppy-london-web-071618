@@ -14,6 +14,8 @@ class Dog
    puts array
   end 
  
+  def self.clear_all
+    @all.
 
 end
 
