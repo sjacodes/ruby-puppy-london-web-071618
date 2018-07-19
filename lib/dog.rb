@@ -8,7 +8,7 @@ class Dog
   end
 
   def self.all
-   array =  @all.collect {|dog| dog.name}
+   array = @@all.collect {|dog| dog.name}
    puts array
   end 
  
